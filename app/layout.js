@@ -59,7 +59,8 @@ export default function RootLayout({ children }) {
         ></script>
         <meta name="google-site-verification" content="googlec8aca910a6f4f023" />
   </head>
-      <body>{children}</body>
+      <body>{children}  <script src="https://pl29504002.effectivecpmnetwork.com/5d/55/01/5d550179cb5eb3ac683efd2e998648d9.js"></script>
+  </body>
     </html>
   );
 }
